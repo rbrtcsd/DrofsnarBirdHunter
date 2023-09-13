@@ -1,0 +1,14 @@
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/obj/Debug/net7.0/Drofsnar_The_Bird_Man.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/obj/Debug/net7.0/Drofsnar_The_Bird_Man.AssemblyInfoInputs.cache
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/obj/Debug/net7.0/Drofsnar_The_Bird_Man.AssemblyInfo.cs
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/obj/Debug/net7.0/Drofsnar_The_Bird_Man.csproj.CoreCompileInputs.cache
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/bin/Debug/net7.0/Drofsnar_The_Bird_Man
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/bin/Debug/net7.0/Drofsnar_The_Bird_Man.deps.json
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/bin/Debug/net7.0/Drofsnar_The_Bird_Man.runtimeconfig.json
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/bin/Debug/net7.0/Drofsnar_The_Bird_Man.dll
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/bin/Debug/net7.0/Drofsnar_The_Bird_Man.pdb
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/obj/Debug/net7.0/Drofsnar_The_Bird_Man.dll
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/obj/Debug/net7.0/refint/Drofsnar_The_Bird_Man.dll
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/obj/Debug/net7.0/Drofsnar_The_Bird_Man.pdb
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/obj/Debug/net7.0/Drofsnar_The_Bird_Man.genruntimeconfig.cache
+/Users/robertcasad/Documents/ElevenFiftyProjects/codingFoundations/dotnetProjects/csharpBasics/Week_08_Challenege/obj/Debug/net7.0/ref/Drofsnar_The_Bird_Man.dll
